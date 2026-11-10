@@ -1,0 +1,13 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "Un módulo para verificar números primos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["prime", "math", "checker"],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "type": "commonjs"
+}
